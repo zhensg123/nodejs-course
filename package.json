@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/zhensg123/nodejs-course/issues"
   },
-  "homepage": "https://github.com/zhensg123/nodejs-course#readme"
+  "homepage": "https://github.com/zhensg123/nodejs-course#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
 }
